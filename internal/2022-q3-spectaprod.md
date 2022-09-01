@@ -1,4 +1,4 @@
-### Proposal - 2022 Q3 - Tim Munsell
+### Proposal - 2022 Q3 - Tim Munsell (spectaprod)
 
 Internal budget proposal for Dash Incubator
 
