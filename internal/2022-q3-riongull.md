@@ -28,4 +28,4 @@ Less than one month remains in this quarter.  In that time I plan to focus on:
 
 ### Budget Request
 
-I am requesting 1,000 DASH from the Incubator general budget.  This will cover budget requests I will delegate to other strategists as well as a reserve to fund projects I'm administering directly.
+I am requesting 1,400 DASH from the Incubator general budget.  This will cover budget requests I will delegate to other strategists as well as a reserve to fund projects I'm administering directly.
