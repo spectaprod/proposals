@@ -29,4 +29,4 @@ Less than one month remains in this quarter.  In that time I plan to focus on:
 
 ### Budget Request
 
-I am requesting 900 DASH from the Incubator general budget. This will cover work completed this cycle that is due to be paid this month as well as other work as listed above. Any remaining funds will be allocated towards seeding a reserve fund for future work.
+I am requesting 900 DASH. This will cover work completed this cycle that is due to be paid this month as well as other work as listed above. Any remaining funds will be allocated towards seeding a reserve fund for future work.
