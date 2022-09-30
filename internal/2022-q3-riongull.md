@@ -29,3 +29,15 @@ Less than one month remains in this quarter.  In that time I plan to focus on:
 ### Budget Request
 
 I am requesting 1,400 DASH from the Incubator general budget.  This will cover budget requests I will delegate to other strategists as well as a reserve to fund projects I'm administering directly.
+
+### Revised Q3 Request
+
+This is a revision of my Q3 2022 proposal. The previous sections were authored on September 2 and remain unchanged.  This section is authored September 30 (today) and is a request for an incremental one-time amount above the 1,400 originally requested.
+
+When I originally estimated what I would need to finish out Q3 and start a reserve buffer I was planning to have the Q4 proposal pay out near the beginning of October.  After further consideration I think it's better to get on a schedule of paying out internal proposals at the end of each month rather than the beginning.  This is because external proposals (the main Incubator proposals) pay out mid- to late-month each month - October 23rd in this case - and it makes more sense to pay internal proposals after the external proposal funds.  This way all funding transactions happen in their respective quarters, and the sequence is external then internal.
+
+I am requesting an additional 800 DASH for Q3.  
+
+This extra funding will give me just over a 2 month reserve buffer and leave the Incubator general reserve with just over 1,900 DASH (see our [Dash Incubator Accounting](https://docs.google.com/spreadsheets/d/1mhXlo4ylqWLLSYN4MGiLWlp7Gq3jrsDt0kB701dwMNU/edit#gid=118961896) sheet for details).
+
+*Note: these funding proposals do not trigger any commissions, only delegation transactions do that.*
