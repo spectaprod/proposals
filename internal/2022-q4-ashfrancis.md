@@ -36,4 +36,4 @@ During the upcoming quarter I plan to focus on the RUST RPC Client, Governance P
 
 ### Budget Request
 
-I am requesting 400 DASH/month for 3 months from the Incubator general budget. This will cover the existing and new work as above based on cost forecasts. Any remaining funds will be applied to a buffer to ensure development continuity. 
+I am requesting 400 DASH/month for 3 months. This will cover the existing and new work as above based on cost forecasts. Any remaining funds will be applied to a buffer to ensure development continuity. 
