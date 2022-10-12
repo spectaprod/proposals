@@ -10,7 +10,7 @@ Section 5.1.2 (Strategist Proposals):
 
 > Each Strategist submits quarterly proposals to the Lead Strategist to increase their budgets. The content and purpose of this proposal is similar to the Lead Strategist’s Network Proposal. It should report project updates, value propositions, budget spending, quarterly priorities, and anything else the strategist wants to commmunicate in order to help justify the value delivered to the network for the funding received and requested.
 
-From section 4.5 (Governance):
+Section 4.5 (Governance):
 
 > The Strategic Committee is responsible to:
 > 
