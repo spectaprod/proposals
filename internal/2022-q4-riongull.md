@@ -6,9 +6,16 @@ Internal budget proposal for Dash Incubator
 
 The new [Incubator rules doc (v3)](https://github.com/dashincubator/dash-incubator-rules/blob/042fde0eea2340a2a8c9fa3483ad8f764d94fe31/rules.md) directs the lead strategist to submit internal budget proposals to the strategic committee.
 
-From section 5.1.2 (Strategist Proposals):
+Section 5.1.2 (Strategist Proposals):
 
 > Each Strategist submits quarterly proposals to the Lead Strategist to increase their budgets. The content and purpose of this proposal is similar to the Lead Strategist’s Network Proposal. It should report project updates, value propositions, budget spending, quarterly priorities, and anything else the strategist wants to commmunicate in order to help justify the value delivered to the network for the funding received and requested.
+
+From section 4.5 (Governance):
+
+> The Strategic Committee is responsible to:
+> 
+> * Approve or reject Incubator rule changes (updates to this document).
+> * Approve or reject quarterly budget requests from the Lead Strategist.
 
 This proposal is for Q4 of 2022.
 
