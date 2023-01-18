@@ -51,8 +51,8 @@ My Q4 budget was 300 Dash, of which 199.8 was distributed in rewards across the 
 
 My Q4 proposal also included the following bounties on which I didn't make any progress:
 
-* [Atomic Swaps](https://trello.com/c/o9l91FLG) - This was help up because the contributor assigned to QA wasn't able to complete the work. A new contributor was  assigned but no work completed until Q1 2023. I expect development to continue through the rest of Q1
-* [DashSee](https://trello.com/c/UALbkO5H) - Same as the above
+* [Atomic Swaps](https://trello.com/c/o9l91FLG) - This was held up because the contributor assigned to QA wasn't able to complete the work. A new contributor was  assigned but no work was completed until Q1 2023. I expect development to continue through the rest of Q1
+* [DashSee](https://trello.com/c/UALbkO5H) - Similar to the above, the primary contributors are not active with the incubator at this time. A new contributer has begun to work, but no work was completed before the end of the quarter.
 
 ### Quarterly Priorities & Value Propositions
 
@@ -61,7 +61,7 @@ During the upcoming quarter I expect to fund progress across most of the bountie
 * [Atomic Swaps](https://trello.com/c/o9l91FLG) - The MVP is near completion, needing some final QA and a functionality. The future state is uncertain, but my goals is get it across the line and decide "what next" later.
 * [Goal/Challenge Platform](https://trello.com/c/8Hy6K7fE) - This MVP has more development, depending on pace I hope we can have a release by early Q2. I see this as a easy, socially shareable, means of introducing new user to Dash and even crypto in general.
 * [Decentralized Dynamic Application Infrastructure](https://trello.com/c/q16cvr5A) - Same status as the above. I see tremendous opportunity with this bounty to give developers a quick means of building on Platform.
-* [Dashmate Bug Fixes, Improvements & Innovations](https://trello.com/c/11azWJXT) - This caries the endorsement and priority from critical developers within the Dash ecosystem.
+* [Dashmate Bug Fixes, Improvements & Innovations](https://trello.com/c/11azWJXT) - This bounty is a direct collaboration with DCG, and they set and maintain the internal priorities that result in the specific tasks.
 * [Platform Console](https://trello.com/c/Xezls3IC) - This bounty was original to dashameter and has been picked back up by emmanualeclipse. It is to create a Dash Platform wallet, identity, username, contract, and document all from a web browser with no coding required
 
 ### Budget Request
