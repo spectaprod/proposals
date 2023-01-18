@@ -27,7 +27,7 @@ My requested budget for the period was 1200 Dash, of which 631 Dash was distribu
 
 During the upcoming quarter I intend to work on the following projects and tasks:
 * [Rust Dash RPC Client](https://trello.com/c/xp5NWpdO/) - Completion of this project.
-* [Summoners Dash Platform Game]https://trello.com/c/mRKNrEzb/) - Release of a playable demo followed by a testnet betting based version (extension dependent)
+* [Summoners Dash Platform Game](https://trello.com/c/mRKNrEzb/) - Release of a playable demo followed by a testnet betting based version (extension dependent)
 * [Reference Dash Platform Extension](https://trello.com/c/h3xNUfHE/) - Getting this to Proof of Concept stage which is a testnet implementation with a reference dapp handshake & transactions.
 * [DashPay Wallet](https://trello.com/c/dCjtC7JH) - The UX for this being refactored into the latest ionic version (and React). 
 * [DashPay Core Extension Wallet](https://trello.com/c/ndQObQDV/) - Completion of this project as a full L1 extension wallet (and a useful reference project). 
